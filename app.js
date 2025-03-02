@@ -6,34 +6,34 @@ const cards = [
       "A card component has a figure, a body part, and inside body there are title and actions parts",
   },
   {
-    label: "Soft Pay",
-    title: "Add Pay Success Modal",
+    label: "CloudSync",
+    title: "Add Dark Mode",
     description:
-      "A card component has a figure, a body part, and inside body there are title and actions parts",
+      "Store the user's preference in localStorage, update CSS variables dynamically, and apply a smooth transition effect.",
   },
   {
     label: "Meta",
-    title: "Add new reaction 👋",
+    title: "Add new emoji 🤲",
     description:
-      "A card component has a figure, a body part, and inside body there are title and actions parts",
+      "It looks like you're asking to add a new emoji, specifically 🤲 (Palms Up Together). Could you clarify what you mean?",
   },
   {
-    label: "Programming Hero",
-    title: "Fix Video Loading Issue",
+    label: "SwiftPay",
+    title: "Optimize  Home page ",
     description:
-      "A card component has a figure, a body part, and inside body there are title and actions parts",
+      "Debug using Chrome DevTools, check for overlapping elements, and ensure onClick works properly",
   },
   {
     label: "Google LLC",
-    title: "Integrate AI search",
+    title: "Integrate OpenAI API ",
     description:
-      "A card component has a figure, a body part, and inside body there are title and actions parts",
+      "If you want to integrate OpenAI API with Google services",
   },
   {
-    label: "Shop Ease",
-    title: "Fix Mobile Button Issue",
+    label: "Glassdoar",
+    title: "Improve Job searching ",
     description:
-      "A card component has a figure, a body part, and inside body there are title and actions parts",
+      "If you're looking to improve your job search on Glassdoor, here are some key tips to get better results:",
   },
 ];
 
